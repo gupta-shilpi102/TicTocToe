@@ -1,4 +1,4 @@
 # TicTocToe
 This is my first git Repository.
 <br>
-Author-Shilpi Gupta
+Author-Shilpi Gupta(BCA)
